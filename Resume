@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enlace a PDF</title>
-</head>
-<body>
-    <h1>Enlace a un archivo PDF</h1>
-    <a href="ruta/al/file:///C:/Users/Jaidy%20Scholte/Downloads/cv2ene25.html" target="_blank">Abrir PDF</a>
-</body>
-</html>
+
